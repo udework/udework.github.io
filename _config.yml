@@ -1,0 +1,31 @@
+url: https://udework.com
+#baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: UDE Work
+email: hi@udework.com
+description: "武汉优帝易科技有限公司是一家电子、IT解决方案提供商，旨在为客户提供高效快速低成本的模块化部件及解决方案。"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 3cc
+  secondary: 036  
+  secondary-dark: 333
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: 微博
+    url: http://weibo.com/udework
+  - title: 微信
+    url:
+  - title: github
+    url: http://github.com/udework
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 湖边省武汉市东湖高新区
+  - line: 光谷一路光南工业园光谷8号工坊31号
+
+# Build settings
+markdown: kramdown
+permalink: pretty
