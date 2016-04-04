@@ -14,16 +14,18 @@ color:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: 微博
+  - title: weibo
     url: http://weibo.com/udework
-  - title: 微信
+  - title: weixin
     url:
+  - title: envelope
+    url: mailto:hi@udework.com
   - title: github
     url: http://github.com/udework
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 湖边省武汉市东湖高新区
+  - line: 湖北省武汉市东湖高新区
   - line: 光谷一路光南工业园光谷8号工坊31号
 
 # Build settings
