@@ -28,6 +28,11 @@ address:
   - line: 湖北省武汉市东湖高新区
   - line: 光谷一路光南工业园光谷8号工坊31号
 
+contact:
+  address: 湖北省武汉市东湖高新区光谷一路光南工业园光谷8号工坊31号
+  e-mail: hi@udework.com
+  phone: +86-27-51239984
+
 # Build settings
 markdown: kramdown
 permalink: pretty
